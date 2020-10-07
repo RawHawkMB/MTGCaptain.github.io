@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<!--
+Website design modified from TemplateMo 553
+-->
+
+<body>
+    <header class="tm-header" id="tm-header">
+        <div class="tm-header-wrapper">
+            <button class="navbar-toggler" type="button" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="tm-site-header">
+                <img src="img/captain-logo.png" alt="Image" class="img-fluid">  
+            </div>
+            <nav class="tm-nav" id="tm-nav">            
+                <ul>
+                    <li class="tm-nav-item"><a href="index.html" class="tm-nav-link">
+                        <i class="fas fa-home"></i>
+                        Updates
+                    </a></li>
+                    <li class="tm-nav-item"><a href="about.html" class="tm-nav-link">
+                        <i class="fas fa-users"></i>
+                        About Captain
+                    </a></li>
+                    <li class="tm-nav-item active"><a href="rules.html" class="tm-nav-link">
+                        <i class="fas fa-pen"></i>
+                        Rules
+                    </a></li>
+                    <li class="tm-nav-item"><a href="banned-cards.html" class="tm-nav-link">
+                        <i class="fas fa-pen"></i>
+                        Banned Cards
+                    </a></li>
+
+                </ul>
+            </nav>
+            <div class="tm-mb-65">
+                <a rel="nofollow" href="https://www.facebook.com/groups/388531002160271" class="tm-social-link">
+                    <i class="fab fa-facebook tm-social-icon"></i>
+                </a>
+                <a href="https://twitter.com/PlayCaptainMTG" class="tm-social-link">
+                    <i class="fab fa-twitter tm-social-icon"></i>
+                </a>
+            </div>
+            <p class="tm-mb-50 pr-5 text-white">
+                <b>RIGHTS</b>
+            </p>
+            <p class="tm-mb-80 pr-5 text-white">
+                The Captain Website is Fan Content permitted under the Fan Content Policy. 
+                Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast and ©Wizards of the Coast LLC;
+            </p>
+
+        </div>
+    </header>
+
+    <div class="container-fluid">
+        <main class="tm-main">
+            <!-- Search form -->
+            <div class="row tm-row">
+                <div class="col-12">
+                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
+                        <button class="tm-search-button" type="submit">
+                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
+                        </button>                                
+                    </form>
+                </div>                
+            </div>            
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+                    <img src="img/necro-impotence.jpg" alt="Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="row tm-row tm-mb-40">
+                <div class="col-12">                    
+                    <div class="mb-4">
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">About Captain</h2>
+                        <p>
+                            
+                            <h3 class="pt-2 tm-mb-40 tm-color-secondary tm-post-title">Deck Construction Rules</h3>
+                            <ol>
+                                <li>Players choose a legendary creature as the captain for their deck. </li>
+                                <li>A card’s colour identity is its color plus the colour of any mana symbols in the card’s rules text. 
+                                    A card’s color identity is established before the game begins, and cannot be changed by game effects. 
+                                    The cards in a deck may not have any colours in their color identity which are not in the colour identity of the deck’s captain.</li>
+                                <li>A captain deck must contain exactly 100 cards, including the captain. If you’re playing a companion, 
+                                    it must adhere to color identity and singleton rules. While it is not part of the deck, it is effectively a 101st card.</li>
+                                <li>With the exception of basic lands, no two cards in the deck may have the same English name. 
+                                    Some cards (e.g. Relentless Rats) may have rules text that overrides this restriction.</li>
+                                </ol>
+                                <h3 class="pt-2 tm-mb-40 tm-color-secondary tm-post-title">Play Rules</h3>
+                                <ol start='5'>
+                                <li>Players begin the game with 40 life.</li>
+                                <li>Captains begin the game in the Command Zone. 
+                                    While a captain is in the command zone, it may be cast, subject to the normal timing restrictions for casting creatures. 
+                                    Its owner must pay  for each time it was previously cast from the command zone; this is an additional cost.</li>
+                                <li>If a captain is in a graveyard or in exile and that card was put into that zone since the last time state-based actions were checked, 
+                                    its owner may put it into the command zone. If a captain would be put into its owner’s hand or library from anywhere, 
+                                    its owner may put it into the command zone instead. This replacement effect may apply more than once to the same event.</li>
+                                <li>Being a captain is not a characteristic [MTG CR109.3], it is a property of the card and tied directly to the physical card. 
+                                    As such, “captain-ness” cannot be copied or overwritten by continuous effects. The card retains it’s captain-ness through any status changes, 
+                                    and is still a captain even when controlled by another player.</li>
+                                <li>If a player has been dealt 21 points of combat damage by a particular captain during the game, that player loses a game.</li>
+                                <li>Captains are subject to the Legend rule; a player cannot control more than one legend with the same name.</li>
+                                <li>Abilities which bring other card(s) you own from outside the game into the game 
+                                    (such as Living Wish; Spawnsire of Ulamog; Karn, the Great Creator) do not function in captain.</li>
+                            </ol>
+                        </p>                         
+                    </div>                    
+                </div>
+            </div>
+     
+        </main>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+</body>
+</html>
