@@ -15,7 +15,7 @@ mv -v -f /var/www/mtgCaptainIT.github.io/* /var/www/mtgcaptain.cards
 
 ### 2) Verify the files exist
 
-cd cd /var/www/mtgcaptain.cards
+cd /var/www/mtgcaptain.cards
 
 ls
 
