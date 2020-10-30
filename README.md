@@ -23,6 +23,6 @@ ls
 
 cd /var/www/
 
-rm -r mtgCaptainIT.githib.io
+rm -r mtgCaptainIT.github.io
 
 ### 4) Verify you can access the website on your own PC and the new changes are reflected
