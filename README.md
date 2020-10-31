@@ -13,6 +13,8 @@ cd mtgcaptain.cards
 
 mv -v -f /var/www/mtgCaptainIT.github.io/* /var/www/mtgcaptain.cards
 
+mv -v -f /var/www/mtgCaptainIT.github.io/img/* /var/www/mtgcaptain.cards/img
+
 ### 2) Verify the files exist
 
 cd /var/www/mtgcaptain.cards
