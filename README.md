@@ -16,16 +16,23 @@ cd /var/www/
 #### Script Contents:
 
 Echo "...Starting Script"
+
 Echo "Changing to website directory & cleaning up old Github temp files."
+
 cd /var/www/
+
 rm -r mtgCaptainIT.github.io
 
 Echo "Downloading new GitHub data."
+
 git clone https://github.com/mtgCaptainIT/mtgCaptainIT.github.io
 
 Echo "Updating HTML and Picture data."
+
 mv -v -f /var/www/mtgCaptainIT.github.io/* /var/www/mtgcaptain.cards
+
 mv -v -f /var/www/mtgCaptainIT.github.io/img/* /var/www/mtgcaptain.cards/img
 
 Echo "Please refresh the website and review changes."
+
 Echo "Ending Script..."
