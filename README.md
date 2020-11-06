@@ -11,6 +11,7 @@ cd /var/www/
 
 ### 2) Verify you can access the website on your own PC and the new changes are reflected correctly
 
+---
 
 #### Script Contents:
 
