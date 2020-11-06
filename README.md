@@ -5,7 +5,7 @@
 
 ### 1) Login to the web server via SSH or web SUI & run these commands
 
-cd /var/www/
+cd /
 
 ./updatewebsite.sh
 
