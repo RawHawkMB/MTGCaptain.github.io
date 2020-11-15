@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+    <div class="container-fluid">
+        <main class="tm-main">
+            <!-- Search form 
+            <div class="row tm-row">
+                <div class="col-12">
+                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
+                        <button class="tm-search-button" type="submit">
+                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
+                        </button>                                
+                    </form>
+                </div>                
+            </div>  
+		-->
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+                    <img src="img/AlhammarretsArchive.jpg" alt="Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="row tm-row tm-mb-40">
+                <div class="col-12">                    
+                    <div class="mb-4">
+                    
+                      <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Captain's Archive</h2>
+                        <p>
+                        In this list you will find out google doc archives from the past. <br>
+                        This is our method to keep everything transparent to all Captain players.
+                         </p>
+                         <p>
+                         Please click and see archives based on topic
+                         </p>
+                         <ul class="b">
+                         
+                         <li><a href="https://drive.google.com/drive/folders/12tpBnXM_eqSdyeIYkUHJocrGNlHJW2j3?usp=sharing">Constitutional Convention Meeting Minutes</a></li>
+                         <li><a href="https://drive.google.com/drive/folders/18qE-JFT33NFSk8eGhPUJVwDJ7y-aI9Kx?usp=sharing">Member Vetting Docs</a></li>
+                         <li><a href="https://drive.google.com/drive/folders/1JLeL3ap6vhDmvkuqsZ606IS_Dk-xQm6b?usp=sharing">Motions</a></li>
+                         <li><a href="https://drive.google.com/drive/folders/1jjOkmwmSzP_Q43e5whcyHzXgp2iDHV1-?usp=sharing">Name Change</a></li>
+                         <li><a href="https://drive.google.com/drive/folders/1vH7rzdaR0bijpk9VrMJRkWWZh3b8h4dv?usp=sharing">Public Statements</a></li>
+                         <li><a href="https://drive.google.com/drive/folders/17BUFIKQP65M2T-lxyEb9Y5MJYgzu6Plb?usp=sharing">Social Media Committee Notes</a></li>
+                         <li><a href="https://drive.google.com/drive/folders/1chNhWK8p9dNB1TZKR6dwSJKRcTORHMW7?usp=sharing">Social Media Docs</a></li>
+                         <li><a href="https://drive.google.com/drive/folders/1Z_1vOcLZlkq794SKqy01GCOLEh7E9KY-?usp=sharing">TLDR</a></li>
+                        
+                        </ul>
+                     </div>                    
+                </div>
+            </div>    
+	    
+        </main>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
+</body>
+</html>
