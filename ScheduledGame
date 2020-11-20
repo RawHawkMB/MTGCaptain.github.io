@@ -54,7 +54,7 @@ $(function(){
                         <p>
                         This Sunday will be a premier event you will not want to miss! <BR>
                         4 Committee members face off in a free for all battle to test their might. <BR>
-                        Who will be left standing? Join us to find out. 
+                        Who will be left standing? Join us to find out. <BR>
                         </p>
 			     
 				<ul class="b">
@@ -72,6 +72,10 @@ $(function(){
 					<li><a href="404.html">Mahijok - The Ur-Dragon</a></li>
 					<li><a href="404.html">HobbitWhoCould - Pako, Archane Restriever + Haldan, Avid Arcanist</a></li>
 				</ul>
+			
+			<p>
+			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
+			</p>
 			
 			<!--
 			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">EULA</h2>
