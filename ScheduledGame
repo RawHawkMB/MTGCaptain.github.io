@@ -88,7 +88,7 @@ $(function(){
 			</p>
 			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
 
-			<p>
+			<p> <BR>
 			Mad Matt Decklist
 			</p>
 			<p> Pending Decklist... </p>
@@ -96,7 +96,7 @@ $(function(){
 
 			</blockquote>
 
-			<p>
+			<p> <BR>
 			Mahijok Decklist
 			</p>
 			<p> Pending Decklist... </p>
