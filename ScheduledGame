@@ -74,8 +74,9 @@ $(function(){
 				</ul>
 			
 			<p>
-			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
+			Embedded test
 			</p>
+			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
 			
 			<!--
 			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">EULA</h2>
