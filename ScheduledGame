@@ -73,10 +73,7 @@ $(function(){
 					<li><a href="404.html">HobbitWhoCould - Pako, Archane Restriever + Haldan, Avid Arcanist</a></li>
 				</ul>
 			
-			<p>
-			Embedded test
-			</p>
-			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
+
 			
 			<!--
 			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">EULA</h2>
@@ -96,6 +93,12 @@ $(function(){
 
 		
         </main>
+
+			<p>
+			Embedded test
+			</p>
+			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
+
     </div>
     <script src="js/jquery.min.js"></script>
     <script src="js/templatemo-script.js"></script>
