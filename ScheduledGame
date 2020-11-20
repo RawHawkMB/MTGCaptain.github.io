@@ -87,6 +87,11 @@ $(function(){
                         </p> 
 			-->
 			    
+			<p>
+			Embedded test
+			</p>
+			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
+			    
                     </div>                    
                 </div>
             </div>
@@ -94,10 +99,7 @@ $(function(){
 		
         </main>
 
-			<p>
-			Embedded test
-			</p>
-			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
+
 
     </div>
     <script src="js/jquery.min.js"></script>
