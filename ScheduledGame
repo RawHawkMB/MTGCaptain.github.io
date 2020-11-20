@@ -99,6 +99,8 @@ $(function(){
 			
 			<p>
 			HobbitWhoCould Decklist
+			</p>
+			<blockquote>
 1x Ancient Tomb
 1x Arcane Signet
 1x Arid Mesa
@@ -194,7 +196,7 @@ $(function(){
 1x Wilderness Reclamation
 1x Wooded Foothills
 1x Yavimaya Coast
-			</p>
+			</blockquote>
 			    
                     </div>                    
                 </div>
