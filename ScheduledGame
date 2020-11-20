@@ -12,7 +12,8 @@
 
 <body>
 	<head>  
-		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+		<script src="http://tappedout.net/tappedout.js"></script>
 	</head>
 	
 	<!--Navigation bar-->
@@ -69,8 +70,8 @@ $(function(){
 			Click each below to view;
                         </p>
 				<ul class="b">			
-					<li><a href="https://tappedout.net/mtg-decks/vial-smasher-chosen-of-kruphix-3/">RawHawk - Vial Smasher the Fierce + Kydele, Chosen of Kruphix </a></li>
-					<li><a href="404.html">FootnMouth - Rishkar, Peema Renegade</a></li>
+					<li><a href="https://tappedout.net/mtg-decks/vial-smasher-chosen-of-kruphix-3/">Raw Hawk - Vial Smasher the Fierce + Kydele, Chosen of Kruphix </a></li>
+					<li><a href="404.html">Mad Matt - Rishkar, Peema Renegade</a></li>
 					<li><a href="404.html">Mahijok - The Ur-Dragon</a></li>
 					<li><a href="404.html">HobbitWhoCould - Pako, Archane Restriever + Haldan, Avid Arcanist</a></li>
 				</ul>
