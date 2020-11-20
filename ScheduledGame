@@ -50,7 +50,7 @@ $(function(){
             <div class="row tm-row tm-mb-40">
                 <div class="col-12">                    
                     <div class="mb-4">
-                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Comittee Clash!</h2>
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Committee Clash!</h2>
                         <p>
                         This Sunday will be a premier event you will not want to miss! <BR>
                         4 Committee members face off in a free for all battle to test their might. <BR>
@@ -58,10 +58,21 @@ $(function(){
                         </p>
 			     
 				<ul class="b">
-					<li><a href="https://www.twitch.tv/">Watch us on Twitch</a></li>
+					<li><a href="https://www.twitch.tv/mtgcaptain">Watch us on Twitch</a></li>
 					<li><a href="https://discord.gg/PGAREPnBJq">Chat with us on Discord</a></li>
 			 	</ul>
 
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Looking for Decklists?</h2>
+                        <p>
+			Click each below to view;
+                        </p>
+				<ul class="b">			
+					<li><a href="https://tappedout.net/mtg-decks/vial-smasher-chosen-of-kruphix-3/">RawHawk - Vial Smasher the Fierce + Kydele, Chosen of Kruphix </a></li>
+					<li><a href="MTGcaptain.cards/404.html">FootnMouth - Rishkar, Peema Renegade</a></li>
+					<li><a href="MTGcaptain.cards/404.html">Mahijok - The Ur-Dragon</a></li>
+					<li><a href="MTGcaptain.cards/404.html">HobbitWhoCould - Pako, Archane Restriever + Haldan, Avid Arcanist</a></li>
+				</ul>
+			
 			<!--
 			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">EULA</h2>
                         <li><a href="http://mtgcaptain.cards/EULA.html">To view and understand the End User License Agreement (EULA) click here.</a></li>
