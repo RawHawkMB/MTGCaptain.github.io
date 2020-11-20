@@ -89,9 +89,10 @@ $(function(){
                             PARAGRAPH_TEXT
                         </p> 
 			-->
-			    
+			
+			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Or See Below;</h2>
 			<p>
-			Embedded test
+			RawHawk Decklist
 			</p>
 			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
 			    
