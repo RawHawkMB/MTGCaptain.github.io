@@ -79,24 +79,26 @@ $(function(){
 			<p>.
 			</p>
 			
-			<!--
-			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">EULA</h2>
-                        <li><a href="http://mtgcaptain.cards/EULA.html">To view and understand the End User License Agreement (EULA) click here.</a></li>
-			-->
-			    
-			<!--
-                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">TITLE_TEXT</h2>
-                        <p>
-                            PARAGRAPH_TEXT
-                        </p> 
-			-->
-			
 			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Or See Below;</h2>
 			<p>
-			RawHawk Decklist
+			Raw Hawk Decklist
 			</p>
 			<div class="deck-list" data-stub="vial-smasher-chosen-of-kruphix-3">&nbsp;</div>
-			
+
+			<p>
+			Mad Matt Decklist
+			</p>
+			<blockquote>
+
+			</blockquote>
+
+			<p>
+			Mahijok Decklist
+			</p>
+			<blockquote>
+
+			</blockquote>
+
 			<p>
 			HobbitWhoCould Decklist
 			</p>
@@ -197,6 +199,19 @@ $(function(){
 1x Wooded Foothills
 1x Yavimaya Coast
 			</blockquote>
+			
+			
+			<!--
+			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">EULA</h2>
+                        <li><a href="http://mtgcaptain.cards/EULA.html">To view and understand the End User License Agreement (EULA) click here.</a></li>
+			-->
+			    
+			<!--
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">TITLE_TEXT</h2>
+                        <p>
+                            PARAGRAPH_TEXT
+                        </p> 
+			-->
 			    
                     </div>                    
                 </div>
