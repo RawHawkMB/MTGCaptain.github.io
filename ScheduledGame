@@ -74,7 +74,7 @@ $(function(){
                         </p>
 				<ul class="b">			
 					<li><a href="https://tappedout.net/mtg-decks/vial-smasher-chosen-of-kruphix-3/">Raw Hawk - Vial Smasher the Fierce + Kydele, Chosen of Kruphix </a></li>
-					<li><a href="404.html">Mad Matt - Rishkar, Peema Renegade</a></li>
+					<li><a href="https://tappedout.net/mtg-decks/rishkar-rampant-counter/?cb=1606003183">Mad Matt - Rishkar, Peema Renegade</a></li>
 					<li><a href="https://archidekt.com/decks/889613#Ur-Dragon">Mahijok - The Ur-Dragon</a></li>
 					<li><a href="https://archidekt.com/decks/918818#Pako_Final">HobbitWhoCould - Pako, Archane Restriever + Haldan, Avid Arcanist</a></li>
 				</ul>
@@ -91,10 +91,7 @@ $(function(){
 			<p> <BR>
 			Mad Matt Decklist
 			</p>
-			<p> Pending Decklist... </p>
-			<blockquote>
-
-			</blockquote>
+			<div class="deck-list" data-stub="rishkar-rampant-counter">&nbsp;</div>
 
 			<p> <BR>
 			Mahijok Decklist
