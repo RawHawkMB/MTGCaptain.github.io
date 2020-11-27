@@ -59,10 +59,10 @@ $(function(){
                             These records will be recorded from newest to oldest.
                         </p> 
 			
-			<p> MONTH: December </p>
+			<p> <BR> MONTH: December </p>
                         <img src="img/NewsLetter2020-12.1.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
 			<img src="img/NewsLetter2020-12.2.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
-			<p> MONTH: November </p>
+			<p> <BR> MONTH: November </p>
                         <img src="img/NewsLetter2020-11.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
                         
 			
