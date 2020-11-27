@@ -58,9 +58,15 @@ $(function(){
                         <p class="tm-pt-30">
                             These records will be recorded from newest to oldest.
                         </p> 
+			
+			<p> MONTH: December </p>
                         <img src="img/NewsLetter2020-12.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+			<p> MONTH: November </p>
                         <img src="img/NewsLetter2020-11.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
-                        <img src="img/NewsLetter2020-10.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+                        
+			
+			<!--
+			<img src="img/NewsLetter2020-10.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
                         <img src="img/NewsLetter2020-09.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
                         <img src="img/NewsLetter2020-08.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
                         <img src="img/NewsLetter2020-07.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
@@ -70,6 +76,7 @@ $(function(){
                         <img src="img/NewsLetter2020-03.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
                         <img src="img/NewsLetter2020-02.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
                         <img src="img/NewsLetter2020-01.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+			-->
                         
                     </div>                    
                 </div>
