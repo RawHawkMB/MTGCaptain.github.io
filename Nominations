@@ -28,7 +28,8 @@ $(function(){
 </script>
 <!--end of Navigation bar-->
 
-    
+        <div class="container-fluid">
+       	 <main class="tm-main">
             <div class="row tm-row tm-mb-45">
                 <div class="col-12">
                     <hr class="tm-hr-primary tm-mb-55">
