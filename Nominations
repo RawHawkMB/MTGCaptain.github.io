@@ -48,10 +48,9 @@ $(function(){
                     </div>                    
                 </div>
             </div>
-        </main>
-	
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesFXoPqpIHDXsIZs2w_z9x4o8g6G5-hhNDMcK-2c8ncsuieA/viewform?embedded=true" width="450" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+	</main>
 
     </div>
     <script src="js/jquery.min.js"></script>
