@@ -51,7 +51,7 @@ $(function(){
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesFXoPqpIHDXsIZs2w_z9x4o8g6G5-hhNDMcK-2c8ncsuieA/viewform?embedded=true" width="450" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 <BR>
 <p> Current Nominations: </p> <BR>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOXT33SoBL1UFaeCVUjfsWtzL4R8nJB31Jggk4_8mUo9oVn90tBA2rU5h6b7B0R5odhhzxB0NEntg7/pubhtml?gid=1193732465&amp;single=true&amp;widget=true&amp;headers=false" width="450" height="650"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOXT33SoBL1UFaeCVUjfsWtzL4R8nJB31Jggk4_8mUo9oVn90tBA2rU5h6b7B0R5odhhzxB0NEntg7/pubhtml?gid=1193732465&amp;single=true&amp;widget=true&amp;headers=false" width="650" height="250"></iframe>
 	</main>
 
     </div>
