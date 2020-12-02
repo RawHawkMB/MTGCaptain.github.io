@@ -46,7 +46,7 @@ $(function(){
                 <div class="col-12">                    
                     <div class="mb-4">
 			<p> Current IT Tasks - Status Window </p>
-			<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_ym6mlbFekl_Aj6koHesCFCcK9om_XQrKNYsi3jSTYUCP_eo8UeUG5Im27in3wQ1SfjFMj6Jzhfj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1600" height="650"></iframe>
+			<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_ym6mlbFekl_Aj6koHesCFCcK9om_XQrKNYsi3jSTYUCP_eo8UeUG5Im27in3wQ1SfjFMj6Jzhfj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1600" height="450"></iframe>
                         
                     </div>                    
                 </div>
