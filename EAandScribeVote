@@ -51,7 +51,7 @@ $(function(){
 
 <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Elected Administrators Vote:</h4>
 <p> Select your top 3 EA candidates </p> <BR>
-<iframe name="opinionstage-widget" src="https://www.opinionstage.com/api/v1/widgets/777416/iframe" width="700px" height="1133px" scrolling="no" style="border: none;" frameBorder="0" allow="fullscreen" webkitallowfullscreen="true" mozallowfullscreen="true" rereferrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe name="opinionstage-widget" src="https://www.opinionstage.com/api/v1/widgets/777416/iframe" width="700px" height="1233px" scrolling="no" style="border: none;" frameBorder="0" allow="fullscreen" webkitallowfullscreen="true" mozallowfullscreen="true" rereferrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
