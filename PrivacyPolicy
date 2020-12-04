@@ -54,7 +54,7 @@ $(function(){
                 <div class="col-12">                    
                     <div class="mb-4">
                         <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Privacy Policy</h4>
-						<iframe src="https://docs.google.com/document/d/e/2PACX-1vQfbuhyYl5Eir-n5a05BYlRQUKr0TxhfSEPdpQCGUve8aOaB_PL9K8TJox0K0V5c-koKFJsmMP8O5XI/pub?embedded=true" width="100%" height="100%"></iframe>
+						<iframe src="https://docs.google.com/document/d/e/2PACX-1vQfbuhyYl5Eir-n5a05BYlRQUKr0TxhfSEPdpQCGUve8aOaB_PL9K8TJox0K0V5c-koKFJsmMP8O5XI/pub?embedded=true" width="100%" height="1250"></iframe>
                     </div>                    
                 </div>
             </div>
