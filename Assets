@@ -136,8 +136,13 @@ $(function(){
                             <ul class="b">
                                 <li> MadMatt#0774 </li> <BR>
                             </ul>       
-                            
+                    </div>                    
+                </div>
+            </div>
 
+
+		 <div class="col-12">                    
+                    <div class="mb-4">
                         <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">IT Hardware Assets</h2>
 			<p>			MTGCaptain IT Phone <BR>
       Used for 2FA for Social Media and IT accounts</p>
@@ -154,8 +159,13 @@ $(function(){
                                 <li> Physically controlled by: DigitalOcean Inc. </li>
                                 <li> Virtually Controlled by: RawHawk#1093 </li>
                             </ul> <BR>
-                            
+                    </div>                    
+                </div>
+            </div>                            
 
+
+		 <div class="col-12">                    
+                    <div class="mb-4">
                         <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">IT Technical Assets</h2>
 			<p>			GitHub - MTGCaptainIT			</p>
 
