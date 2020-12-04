@@ -50,7 +50,7 @@ $(function(){
             </div>
 			
 			
-<div style="position:relative;overflow:hidden;padding-top:120%;"><iframe src="https://rankit.vote/vote/Yf6BXusxSpjF51j48bZu" style="border:1px solid #f1f1f1;position: absolute;top: 0;left: 0;width: 100%;height: 100%;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" allowfullscreen></iframe></div>
+<iframe src="https://rcv-app.firebaseapp.com/embed/-MNirz5xoq0aJzGrQFGh" frameborder="0" width="100%" height="800px"></iframe>
 
 
 	</main>
