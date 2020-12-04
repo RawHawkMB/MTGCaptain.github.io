@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+    <div class="container-fluid">
+        <main class="tm-main">
+            <!-- Search form 
+            <div class="row tm-row">
+                <div class="col-12">
+                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
+                        <button class="tm-search-button" type="submit">
+                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
+                        </button>                                
+                    </form>
+                </div>                
+            </div>  
+		-->
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+                    <img src="img/Balance.jpg" alt="Image" class="img-fluid">
+                </div>
+            </div>
+
+<p> See below for the controlls of each asset. </p>
+                     
+		 <div class="col-12">                    
+                    <div class="mb-4">
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Social Media Platforms</h2>
+			<p>			Discord			</p>
+
+                          
+                            <ul class="b">
+                                <li> IT SUPER ADMINS <BR>
+                                MTGCSuperAdmin1#3043 (Root IT Service Account) - Pending Completion <BR>
+                                MTGCSuperAdmin2# (IT Service Account) <BR>
+                                MTGCSuperAdmin3# (IT Service Account) <BR>
+                                </li>
+                                
+                                <li> LEAD MODERATORS <BR>
+                                Qwertyalex#9823 <BR>
+                                BrightestHammer#3494 <BR>
+                                Mahijok#1966 </li> <BR>
+                                
+                                <li> MODERATORS <BR>
+                                Brannmuffyn#6969 </li> <BR>                               
+                            </ul>
+                            
+                            
+      <p>			Facebook			</p>
+                            
+                            <ul class="b">
+                                <li> ADMIN <BR>
+                                Matthew Madden (Owns Facebook Group) <BR>
+                                Matthew Cichy <BR>
+                                Magicthegathering Captainit (IT Service Account) <BR>
+                                </li>
+                                
+                                <li> MODERATOR
+                                Ethan Morris <BR>
+                                Jake O'Donnell </li> <BR>
+                            </ul>
+
+
+			<p>			Instagram			</p>
+
+                            <ul class="b">
+                                <li> Mad Matt </li>
+                                <li> MTGCaptainIT (IT Service Account) </li>
+
+
+			<p>			Google Mail - Social Media Accounts			</p>
+
+                            <ul class="b">
+                                <li> YinsoTheAkuma#9229 </li> <BR>
+                            </ul>
+                            
+                            
+      <p>			YouTube Channel			</p>
+
+                            <ul class="b">
+                                <li> YinsoTheAkuma#9229 </li> <BR>
+                            </ul>
+
+
+			<p>			Reddit - /r/MTGCaptain			</p>
+
+                            <ul class="b">
+                                <li> MODERATORS <BR>
+                                Raw_Hawk (Owns Subreddit) <BR>
+                                MadMatt13579 <BR>
+                                FootnMouth5 <BR>
+                                MTGCaptain_Admin (IT Service Account)
+                                </li> <BR>
+                            </ul>
+                  
+                  
+      <p>			Twitch Channel			</p>
+
+                            <ul class="b">
+                                <li> YinsoTheAkuma#9229 </li> <BR>
+                            </ul>                            
+  
+  
+      <p>			Twitter Channel			</p>
+
+                            <ul class="b">
+                                <li> MadMatt#0774 </li> <BR>
+                            </ul>       
+                            
+
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">IT Hardware Assets</h2>
+			<p>			MTGCaptain IT Phone <BR>
+      Used for 2FA for Social Media and IT accounts</p>
+
+                            <ul class="b">
+                                <li> Physically controlled by: YinsoTheAkuma#9229 </li>
+                                <li> Virtually Controlled by: RawHawk#1093 </li>
+                            </ul> <BR>
+                            
+     <p>      MTGCaptain.cards Server <BR>   
+     Used to host website & Decidim install</p>
+     
+                            <ul class="b">
+                                <li> Physically controlled by: DigitalOcean Inc. </li>
+                                <li> Virtually Controlled by: RawHawk#1093 </li>
+                            </ul> <BR>
+                            
+
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">IT Technical Assets</h2>
+			<p>			GitHub - MTGCaptainIT			</p>
+
+                            <ul class="b">
+                                <li> RawHawk#1093 </li>
+                            </ul> <BR>
+                            
+                            
+			<p>			NameCheap DNS			</p>
+
+                            <ul class="b">
+                                <li> RawHawk#1093 </li>
+                            </ul> <BR>
+                            
+                            
+			<p>			Paypal			</p>
+
+                            <ul class="b">
+                                <li> RawHawk#1093 </li>
+                            </ul> <BR>
+                                                    
+                            
+			<p>			Patreon			</p>
+
+                            <ul class="b">
+                                <li> RawHawk#1093 </li>
+                            </ul> <BR>                            
+  
+  		<p>			Lastpass			</p>
+
+                            <ul class="b">
+                                <li> RawHawk#1093 </li>
+                            </ul> <BR>
+                            
+			<p>			Bravenet Forums			</p>
+
+                            <ul class="b">
+                                <li> RawHawk#1093 </li>
+                            </ul> <BR>
+                           
+   
+                    </div>                    
+                </div>
+            </div>
+	    
+        </main>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
+</body>
+</html>
