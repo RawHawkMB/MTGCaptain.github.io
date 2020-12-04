@@ -119,9 +119,14 @@ $(function(){
   
       <p>			Twitter Channel			</p>                    
                                 <li> MadMatt#0774 </li> <BR>
-                                
+    
+    			</ul>
+                    </div>                    
+                </div>
+            </div>
 
-
+		 <div class="col-12">                    
+                    <div class="mb-4">
                         <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">IT Hardware Assets</h2>
 			<p>			MTGCaptain IT Phone <BR>
       Used for 2FA for Social Media and IT accounts</p>
