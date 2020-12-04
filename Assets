@@ -48,7 +48,7 @@ $(function(){
                 </div>
             </div>
 
-<p> See below for the controlls of each asset. </p>
+<p> See below for the owner and operator of each asset. </p>
                      
 		 <div class="col-12">                    
                     <div class="mb-4">
@@ -93,6 +93,7 @@ $(function(){
                             <ul class="b">
                                 <li> Mad Matt </li>
                                 <li> MTGCaptainIT (IT Service Account) </li>
+			     </ul>
 
 
 			<p>			Google Mail - Social Media Accounts			</p>
