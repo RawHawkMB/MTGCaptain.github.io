@@ -53,7 +53,7 @@ $(function(){
 		 <div class="col-12">                    
                     <div class="mb-4">
                         <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Social Media Platforms</h2>
-			<p>			Discord			</p>       
+			<p>	<Strong><u> Discord </Strong></u> </p>       
                             <ul class="b">
                                 <li> IT SUPER ADMINS <BR>
                                 MTGCSuperAdmin1#3043 (Root IT Service Account) - Pending Completion <BR>
@@ -71,7 +71,7 @@ $(function(){
                             	
                             
    		  	                            
-      <p>			Facebook			</p>        
+      <p>			<Strong><u> Facebook			</p>        
                                 <li> ADMIN <BR>
                                 Matthew Madden (Owns Facebook Group) <BR>
                                 Matthew Cichy <BR>
@@ -84,7 +84,7 @@ $(function(){
                             
 
 
-			<p>			Instagram			</p>
+			<p>	<Strong><u> Instagram </Strong></u> 			</p>
 
                             
                                 <li> Mad Matt </li>
@@ -92,17 +92,17 @@ $(function(){
 			     
 
 
-			<p>			Google Mail - Social Media Accounts			</p> 
+			<p>	<Strong><u> Google Mail - Social Media Accounts	</Strong></u> 		</p> 
                                 <li> YinsoTheAkuma#9229 </li> <BR>
                             
                             
                             
-      <p>			YouTube Channel			</p>
+      <p>			<Strong><u> YouTube Channel </Strong></u> 			</p>
                                 <li> YinsoTheAkuma#9229 </li> <BR>
                             
 
 
-			<p>			Reddit - /r/MTGCaptain			</p>    
+			<p>	<Strong><u> Reddit - /r/MTGCaptain </Strong></u> 		</p>    
                                 <li> MODERATORS <BR>
                                 Raw_Hawk (Owns Subreddit) <BR>
                                 MadMatt13579 <BR>
@@ -112,7 +112,7 @@ $(function(){
                             
                   
                   
-      <p>			Twitch Channel			</p>  
+      <p>			<Strong><u> Twitch Channel </Strong></u> 			</p>  
                                 <li> YinsoTheAkuma#9229 </li> <BR>
                                                      
   
@@ -128,7 +128,7 @@ $(function(){
 	<div class="col-12">                    
         	<div class="mb-4">
                 	<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">IT Hardware Assets</h2>
-			<p>			MTGCaptain IT Phone <BR>
+			<p>	<Strong><u> MTGCaptain IT Phone </Strong></u>  <BR>
       Used for 2FA for Social Media and IT accounts</p>
 
                             
@@ -136,7 +136,7 @@ $(function(){
                                 <li> Virtually Controlled by: RawHawk#1093 </li>  <BR>
 
                             
-     <p>      MTGCaptain.cards Server <BR>   
+     <p>     <Strong><u>  MTGCaptain.cards Server </Strong></u>  <BR>   
      Used to host website & Decidim install</p>
      
                             
@@ -147,30 +147,30 @@ $(function(){
 
 
                         <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">IT Technical Assets</h2>
-			<p>			GitHub - MTGCaptainIT			</p>          
+			<p>	<Strong><u> GitHub - MTGCaptainIT </Strong></u> 			</p>          
                                 <li> RawHawk#1093 </li> <BR>
 
                             
                             
-			<p>			NameCheap DNS			</p>
+			<p>	<Strong><u> NameCheap DNS </Strong></u> 			</p>
                                 <li> RawHawk#1093 </li> <BR>
 
                             
                             
-			<p>			Paypal			</p>
+			<p>	<Strong><u> Paypal </Strong></u> 			</p>
                                 <li> RawHawk#1093 </li> <BR>
 
                                                     
                             
-			<p>			Patreon			</p>
+			<p>	<Strong><u> Patreon </Strong></u> 			</p>
                                 <li> RawHawk#1093 </li> <BR>
                            
   
-  		<p>			Lastpass			</p>
+  		<p>		<Strong><u> Lastpass </Strong></u> 			</p>
                                 <li> RawHawk#1093 </li> <BR>
 
                             
-			<p>			Bravenet Forums			</p>
+			<p>	<Strong><u> Bravenet Forums </Strong></u> 			</p>
                                 <li> RawHawk#1093 </li> <BR>
 
                         </ul>   
