@@ -136,7 +136,7 @@ $(function(){
 
                             
      <p>     <Strong><u>  MTGCaptain.cards Server </Strong></u>  <BR>   
-     Used to host website & Decidim install</p>
+     Used to host website & Decidim</p>
      
                             
                                 <li> Physically controlled by: DigitalOcean Inc. </li>
