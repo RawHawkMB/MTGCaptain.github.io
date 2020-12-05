@@ -46,14 +46,19 @@ $(function(){
 		To view the Community Constitution click <a href="http://mtgcaptain.cards/Constitution.html">HERE</a> <BR>
 		*For Best Results - Use A Desktop Browser To Complete This Form*</p> <BR>
 		<p> Before proceeding to the vote please be aware of the STAR voting system and all it's benefits; </p>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/e3GFG0sXIig?controls=0&amp;start=124" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/e3GFG0sXIig?controls=0&amp;start=124" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <BR>
+		<p> Please rate each candidate for EA deen below; </p>
                     </div>                    
                 </div>
             </div>
 			
 			
+		<iframe src="https://star.vote/mtgcaptai" frameborder="0" width="100%" height="800px"></iframe>	
+			
+			
+<!--			
 <iframe src="https://rcv-app.firebaseapp.com/embed/-MNirz5xoq0aJzGrQFGh" frameborder="0" width="100%" height="800px"></iframe>
-
+-->
 
 
 	</main>
