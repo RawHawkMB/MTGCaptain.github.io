@@ -54,7 +54,8 @@ $(function(){
                     <div class="mb-4">
                         <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Social Media Platforms</h2>
 			<p>	<Strong><u> Discord </Strong></u> </p>       
-                            <ul class="b">
+                            <!-- <ul class="b">  -->
+							<ul>
                                 <li> IT SUPER ADMINS ROLE <BR>
                                 MTGCSuperAdmin1#3043 (Root IT Service Account) - Pending Completion <BR>
                                 MTGCSuperAdmin2# (IT Service Account) <BR>
