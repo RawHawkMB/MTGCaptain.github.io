@@ -44,10 +44,10 @@ $(function(){
 			    		<p> <BR>
 		Please review the Community Constitution prior to completing this vote. <BR>
 		To view the Community Constitution click <a href="http://mtgcaptain.cards/Constitution.html">HERE</a> <BR>
-		*For Best Results - Use A Desktop Browser To Complete This Form*</p> <BR>
-		<p> Before proceeding to the vote please be aware of the STAR voting system and all it's benefits; </p>
+		*For Best Results - Use A Desktop Browser To Complete This URL*</p> <BR>
+		<!-- <p> Before proceeding to the vote please be aware of the STAR voting system and all it's benefits; </p>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/e3GFG0sXIig?controls=0&amp;start=124" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <BR>
-		<p> Please rate each candidate. You will need to navigate to the link below. </p><BR>
+		<p> Please rate each candidate. You will need to navigate to the link below. </p><BR> -->
 		<!--<li><a href="https://star.vote/captaineavote/">ELECTED ADMINISTRATOR Vote</a></li> <BR> -->
 		<li><a href="https://youpoll.me/48009/">ELECTED ADMINISTRATOR Vote</a></li> <BR>
 		<!-- <li><a href="https://star.vote/mtgcaptainscribe/">SCRIBE Vote</a></li> <BR> -->
