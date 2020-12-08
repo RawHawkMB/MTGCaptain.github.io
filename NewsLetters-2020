@@ -59,15 +59,26 @@ $(function(){
                             Newsletters will be recorded from newest to oldest.
                         </p> 
 			
-			<!--
+
 			<p> <BR> MONTH: December </p>
-                        <img src="img/NewsLetter2020-12.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
-			-->
+                        <img src="img/NewsLetter2020-12.1.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.2.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.3.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.4.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.5.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.6.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.7.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.8.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.9.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.10.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.11.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-12.12.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+
 			<p> <BR> MONTH: November </p>
                         <img src="img/NewsLetter2020-11.1.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
-			<img src="img/NewsLetter2020-11.2.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
-                        <p> <BR> MONTH: Octber </p>
-			<img src="img/NewsLetter2020-10.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+						<img src="img/NewsLetter2020-11.2.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
+            <p> <BR> MONTH: Octber </p>
+						<img src="img/NewsLetter2020-10.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
 			
 			<!--
                         <img src="img/NewsLetter2020-09.jpg" alt="Image" class="img-fluid" style="width: 48vw; min-height: 330px;">
