@@ -54,9 +54,9 @@ $(function(){
 		
 		<p> ELECTION RESULTS ARE IN! Please see below for the results supplied December 13, 2020 @ 21:58 <BR>
 		EA Results;	 </p> <BR>
-		<img src="img/Election_Results_2020-EA.jpg" alt="Image" class="img-fluid">
+		<img src="img/Election_Results_2020-EA.png" alt="Image" class="img-fluid">
 		<p> Scribe Results; </p>
-		<img src="img/Election_Results_2020-Scribe.jpg" alt="Image" class="img-fluid">
+		<img src="img/Election_Results_2020-Scribe.png" alt="Image" class="img-fluid">
 		
 			<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Candidates Introduction</h4>
 					<p> [ Ordered Alphabetically ] <BR>
