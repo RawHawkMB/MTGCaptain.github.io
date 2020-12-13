@@ -44,13 +44,19 @@ $(function(){
 			    		<p> <BR>
 		Please review the Community Constitution prior to completing this vote. <BR>
 		To view the Community Constitution click <a href="http://mtgcaptain.cards/Constitution.html">HERE</a> <BR>
-		*For Best Results - Use A Desktop Browser To Complete This URL*</p> <BR>
-		<!-- <p> Before proceeding to the vote please be aware of the STAR voting system and all it's benefits; </p>
+		<!-- *For Best Results - Use A Desktop Browser To Complete This URL*</p> <BR>
+		<p> Before proceeding to the vote please be aware of the STAR voting system and all it's benefits; </p>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/e3GFG0sXIig?controls=0&amp;start=124" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <BR>
-		<p> Please rate each candidate. You will need to navigate to the link below. </p><BR> -->
-		<!--<li><a href="https://star.vote/captaineavote/">ELECTED ADMINISTRATOR Vote</a></li> <BR> -->
+		<p> Please rate each candidate. You will need to navigate to the link below. </p><BR>
+		<li><a href="https://star.vote/captaineavote/">ELECTED ADMINISTRATOR Vote</a></li> <BR>
 		<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title"><a href="https://youpoll.me/48009/">ELECTED ADMINISTRATOR & SCRIBE Vote</a></h4> <BR> <BR> <BR>
-		<!-- <li><a href="https://star.vote/mtgcaptainscribe/">SCRIBE Vote</a></li> <BR> -->
+		<li><a href="https://star.vote/mtgcaptainscribe/">SCRIBE Vote</a></li> <BR> -->
+		
+		<p> ELECTION RESULTS ARE IN! Please see below for the results supplied December 13, 2020 @ 21:58 <BR>
+		EA Results;	 </p> <BR>
+		<img src="img/Election_Results_2020-EA.jpg" alt="Image" class="img-fluid">
+		Scribe Results;
+		<img src="img/Election_Results_2020-Scribe.jpg" alt="Image" class="img-fluid">
 		
 			<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Candidates Introduction</h4>
 					<p> [ Ordered Alphabetically ] <BR>
