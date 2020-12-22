@@ -86,7 +86,7 @@ $(function(){
                             	
                             
    		  	                            
-      <p>			<Strong><u> Facebook </Strong></u> </p>        
+      <p>			<Strong><u><li><a href="https://www.facebook.com/groups/mtgcaptainformat/?__cft__[0]=AZU5Ys2HFH2eDWnc-9KuZIyFTXdAIXWPFpIsgS6vUrrCnTWuGJ-gSvWkljs6FO6IfJxEjCBDsfzDGMXhakFQEVurWqZPL30hbSzAUmou_KieNO-bAnoF0TPVR6n3hfI0L24Mf6H-9lrlRZnoWgRo727O3lX1DLOa9LWFZAqGehy7iuZXcIw3_vApE_eQDugnUOA&__tn__=-UC%2CP-R">Facebook </a></Strong></u> </p>        
                                 <li> ADMIN ROLE <BR>
                                 Matthew Madden (Owns Facebook Group) <BR>
                                 Matthew Cichy <BR>
@@ -101,7 +101,7 @@ $(function(){
  <BR> 
  <BR>
   <BR>  -->
-			<p>	<Strong><u> Instagram </Strong></u> 			</p>
+			<p>	<Strong><u><li><a href="https://www.instagram.com/mtgcaptain/"> Instagram </a></Strong></u> 			</p>
 
                             
                                 <li> Mad Matt </li>
@@ -117,14 +117,14 @@ $(function(){
 								<li> MTGCaptainIT (IT Service Account) </li> <BR>
 								
                             
-      <p>			<Strong><u> YouTube Channel </Strong></u> 			</p>
+      <p>			<Strong><u><li><a href="https://www.youtube.com/channel/UCq8yJL1Txx5-oldIIChBEmA"> YouTube Channel </a></Strong></u> 			</p>
                             <!--    <li> YinsoTheAkuma#9229 </li>
 								<li> footnmouth#0607 </li> <BR>  -->
 								<li> MadMatt#0774	</li>
 								<li> MTGCaptainIT (IT Service Account) </li> <BR>
 
 
-			<p>	<Strong><u> Reddit - /r/MTGCaptain </Strong></u> 		</p>    
+			<p>	<Strong><u><li><a href="https://old.reddit.com/r/MTGCaptain/"> Reddit </a>- /r/MTGCaptain </Strong></u> 		</p>    
                                 <li> MODERATORS ROLE <BR>
                             <!--    Raw_Hawk (Owns Subreddit) <BR> -->
                                 MadMatt13579 <BR>
@@ -133,12 +133,12 @@ $(function(){
                             
                   
                   
-      <p>			<Strong><u> Twitch Channel </Strong></u> 			</p>  
+      <p>			<Strong><u><li><a href="https://www.twitch.tv/mtgcaptain"> Twitch </a>Channel </Strong></u> 			</p>  
                                 <li> W.I.P. </li> <BR>
                                                      
   
   
-      <p>			<Strong><u> Twitter Channel </u></Strong>			</p>                    
+      <p>			<Strong><u><li><a href="https://twitter.com/PlayCaptainMTG"> Twitter </a>Channel </u></Strong>			</p>                    
                                 <li> MadMatt#0774 </li> 
 								<li> MTGCaptainIT (IT Service Account) </li>
     
@@ -184,7 +184,7 @@ $(function(){
 
                                                     
                             
-			<p>	<Strong><u> Patreon </Strong></u> 			</p>
+			<p>	<Strong><u><li><a href="https://www.patreon.com/MTGCaptain"> Patreon </a></Strong></u> 			</p>
                                 <li> Nitroxien#5171 </li> <BR>
                            
   
