@@ -134,12 +134,14 @@ $(function(){
                   
                   
       <p>			<Strong><u><li><a href="https://www.twitch.tv/mtgcaptain"> Twitch </a>Channel </Strong></u> 			</p>  
-                                <li> W.I.P. </li> <BR>
+                                
+								<li> MTGCaptainIT (IT Service Account) </li>
                                                      
   
   
       <p>			<Strong><u><li><a href="https://twitter.com/PlayCaptainMTG"> Twitter </a>Channel </u></Strong>			</p>                    
                                 <li> MadMatt#0774 </li> 
+								<li> FootnMouth#0607 </li>
 								<li> MTGCaptainIT (IT Service Account) </li>
     
     			</ul>
