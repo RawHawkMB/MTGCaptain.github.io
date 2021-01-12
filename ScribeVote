@@ -48,20 +48,20 @@ $(function(){
 						
 						Hobbit's depature message: <BR>  <BR>
 						
-						<italic> It has been a truly fascinating and enjoyable experience to be a part of this since day 1. Seeing everyone self organize, put the needs of others ahead of themselves, make the right and healthy decisions, and follow a superb democratic process has brought me immeasurable joy. Being a part of that has brought me immeasurable joy. Meeting so many of you beautiful souls, who I hope I can call lifelong friends, has brought me immeasurable joy.  <BR>  <BR>
+						<em> It has been a truly fascinating and enjoyable experience to be a part of this since day 1. Seeing everyone self organize, put the needs of others ahead of themselves, make the right and healthy decisions, and follow a superb democratic process has brought me immeasurable joy. Being a part of that has brought me immeasurable joy. Meeting so many of you beautiful souls, who I hope I can call lifelong friends, has brought me immeasurable joy.  <BR>  <BR>
 
 						Unfortunately, today my heart is nothing but heavy, as I must resign from my position of Scribe due to health issues. I am worried this will prevent me from dependably handling the responsibilities.  <BR>  <BR>
 
 						My dedication to seeing this being a successful format will continue, however. I will work with the powers that be to ensure an easy transition. I will prepare all my assets to be transferred to the next elected Scribe, and will ensure they have the resources and understanding of the Constitution, Roberts Rules, and anything else needed for the position. Minus having another vote (which I am gravely sorry for), you shouldn't even notice anything is going on! Furthermore, I will still be reachable. My DMs and Private Server are always open. I will continue to give advisement on Constitutional issues as needed, and will strive to be available to write any updates & amendments to should it be needed.  <BR>
 
 						Sláinte, <BR>
-						HobbitWhoCould </italic>  <BR> <BR>
+						HobbitWhoCould </em>  <BR> <BR>
 						
 						--- <BR> <BR>
 						
 						Please consider volunteering for this position. You will be able to contribute to the community and be at the forefront of the MTG Captain changes. <BR>  <BR>
 						
-						<italic> Please review the Community Constitution prior to volunteering & the vote. </italic> <BR>  <BR>
+						<em> Please review the Community Constitution prior to volunteering & the vote. </em> <BR>  <BR>
 		
 						See below for the sign up form and current volunteers;
 						</p>
@@ -70,7 +70,7 @@ $(function(){
 						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2c4MFXOYHW7Hl3vFtnu96RWair9NC9Om57QT9y4SRCnk0Pw/viewform?embedded=true" width="100%" height="557" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 						<BR>
 						<p><strong> Current Volunteers </strong></p>
-						<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrAh2ydGZ_Vb-q_NfVzJWh1zbPKgd-eAK9uCA4RKMCP9FCB4VcDbej31BdwIKGAxYdUrGSGDxOaNxh/pubhtml?gid=1770984103&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+						<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrAh2ydGZ_Vb-q_NfVzJWh1zbPKgd-eAK9uCA4RKMCP9FCB4VcDbej31BdwIKGAxYdUrGSGDxOaNxh/pubhtml?gid=1770984103&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="200"></iframe>
 						<BR>  <BR>
 						
 						
@@ -85,6 +85,7 @@ $(function(){
 		<img src="img/Election_Results_2021-Scribe.png" alt="Image" class="img-fluid">
 		-->
 		
+		<!--
 			<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Candidates Introduction</h4>
 					<p> [ Ordered Alphabetically ] <BR>
 					________________________________ </p>
@@ -93,9 +94,8 @@ $(function(){
 					<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">DISCORD USERNAME  NAME#0123</h4>
 					<p>
 					SUMMARY of the reasons this person believes they should be Scribe
-					</p> <BR>
-					
-					
+					</p> <BR>		
+		-->			
 					
                     </div>                    
                 </div>
