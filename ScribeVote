@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+
+<body>
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+        <div class="container-fluid">
+       	 <main class="tm-main">
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+              <!--      <img src="img/VoteHere.jpg" alt="Image" class="img-fluid">   -->
+                </div>
+            </div>
+
+            <div class="row tm-row tm-mb-40">
+                <div class="col-12">                    
+                    <div class="mb-4">
+                        <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Scribe Vote - 2021</h4>
+			    		<p>
+						Starting immediately we will be having a snap election for the MTG Captain Scribe position. <BR>
+						
+						Our prior Scribe for 2020, HobbitWhoCould#4068, had to step down for personal reasons and can no longer maintain the Scribe position. <BR> 
+						
+						Hobbit's depature message: <BR>
+						
+						<italic> It has been a truly fascinating and enjoyable experience to be a part of this since day 1. Seeing everyone self organize, put the needs of others ahead of themselves, make the right and healthy decisions, and follow a superb democratic process has brought me immeasurable joy. Being a part of that has brought me immeasurable joy. Meeting so many of you beautiful souls, who I hope I can call lifelong friends, has brought me immeasurable joy.  <BR>
+
+						Unfortunately, today my heart is nothing but heavy, as I must resign from my position of Scribe due to health issues. I am worried this will prevent me from dependably handling the responsibilities.  <BR>
+
+						My dedication to seeing this being a successful format will continue, however. I will work with the powers that be to ensure an easy transition. I will prepare all my assets to be transferred to the next elected Scribe, and will ensure they have the resources and understanding of the Constitution, Roberts Rules, and anything else needed for the position. Minus having another vote (which I am gravely sorry for), you shouldn't even notice anything is going on! Furthermore, I will still be reachable. My DMs and Private Server are always open. I will continue to give advisement on Constitutional issues as needed, and will strive to be available to write any updates & amendments to should it be needed.  <BR>
+
+						Sláinte, <BR>
+						HobbitWhoCould </italic>  <BR> <BR>
+						
+						--- <BR> <BR>
+						
+						Please consider volunteering for this position. You will be able to contribute to the community and be at the forefront of the MTG Captain changes. <BR>
+						
+						<italic> Please review the Community Constitution prior to volunteering & the vote. </italic> <BR>
+		
+						See below for the sign up form and current volunteers;
+						</p>
+						
+						<p><strong> Signup Form <strong></p>
+						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2c4MFXOYHW7Hl3vFtnu96RWair9NC9Om57QT9y4SRCnk0Pw/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+						<BR>
+						<p><strong> Current Volunteers </strong></p>
+						<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrAh2ydGZ_Vb-q_NfVzJWh1zbPKgd-eAK9uCA4RKMCP9FCB4VcDbej31BdwIKGAxYdUrGSGDxOaNxh/pubhtml?gid=1770984103&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+						<BR>
+						
+						
+						<p>
+						Thank you very much for signing up if you have, and please check back soon to get regular updates.
+						<BR>
+						- MTG Captain Elected Administrators
+		
+		<!--
+		<p> ELECTION RESULTS ARE IN! Please see below for the results supplied MONTH DAY, 2021 @ TIME  <BR>
+		<p> Scribe Results; </p>
+		<img src="img/Election_Results_2021-Scribe.png" alt="Image" class="img-fluid">
+		-->
+		
+			<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Candidates Introduction</h4>
+					<p> [ Ordered Alphabetically ] <BR>
+					________________________________ </p>
+					
+					
+					<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">DISCORD USERNAME  NAME#0123</h4>
+					<p>
+					SUMMARY of the reasons this person believes they should be Scribe
+					</p> <BR>
+					
+					
+					
+                    </div>                    
+                </div>
+            </div>
+			
+			
+		
+			
+			
+
+
+
+	</main>
+
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
+</body>					   
+</html>
