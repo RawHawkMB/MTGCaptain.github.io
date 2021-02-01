@@ -40,7 +40,7 @@ $(function(){
 					Does it involve a password, permissions, bot, or key of any sort? That's an IT task. <BR>
 					See below for a selection of the IT assets and documentation: </p>
 						<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">IT Wall of Contents</h4>
-							<li><a href="https://discord.gg/3CaZKsB9YF">Official IT Discord Server</a></li>
+							<li><a href="https://discord.gg/3CaZKsB9YF">Official Captain IT Discord Server</a></li>
 							<li><a href="https://MTGCaptain.cards/IT-Tasks">IT Dept Tasks - Status Window</a></li>
 							
 							<!--
