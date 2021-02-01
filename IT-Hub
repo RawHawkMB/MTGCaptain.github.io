@@ -58,13 +58,13 @@ $(function(){
 							<li><a href="https://MTGCaptain.cards/IT-Tasks">IT Dept Tasks - Status Window</a></li>
 							<li><a href="https://MTGCaptain.cards/">TITLE_HERE</a></li>
 							
-						<!-- <li><a href="https://MTGCaptain.cards/">TITLE_HERE</a></li>	-->
+						
 
                     </div>                    
                 </div>
             </div>
 
-				
+				<!-- <li><a href="https://MTGCaptain.cards/">TITLE_HERE</a></li>	-->
 
         </main>
     </div>
