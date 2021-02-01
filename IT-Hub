@@ -36,6 +36,9 @@ $(function(){
                 <div class="col-12">
                     <hr class="tm-hr-primary tm-mb-55">
                     <img src="img/UrzaLordHighArtificer.jpg" alt="Image" class="img-fluid">
+					<p> Information Technology department takes care of all technology assets, security, technical documentation, account recovery, and all other general technical inquiries and requests. <BR>
+					Does it involve a password, permissions, bot, or key of any sort? That's an IT task. <BR>
+					See below for a selection of the IT assets and documentation: </p>
 						<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">IT Wall of Contents</h4>
 							<li><a href="https://discord.gg/3CaZKsB9YF">Official IT Discord Server</a></li>
 							<li><a href="https://MTGCaptain.cards/IT-Tasks">IT Dept Tasks - Status Window</a></li>
@@ -43,7 +46,8 @@ $(function(){
 							<!--
 							<li><a href="https://MTGCaptain.cards/">TITLE_HERE</a></li>
 							-->
-					
+					<p> <BR> <Strong> If anything is missing, broken, or you have a general inquiry please give send us an email at; <BR>
+					MTGCaptainIT@gmail.com </Strong> </p>
                 </div>
             </div>
 
