@@ -35,8 +35,8 @@ $(function(){
             <div class="row tm-row tm-mb-45">
                 <div class="col-12">
                     <hr class="tm-hr-primary tm-mb-55">
-                    <!-- <img src="img/UrzaLordHighArtificer.jpg" alt="Image" class="img-fluid"> -->
-					<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">IT Wall of Contents</h4>
+                    <img src="img/UrzaLordHighArtificer.jpg" alt="Image" class="img-fluid">
+						<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">IT Wall of Contents</h4>
 							<li><a href="https://discord.gg/3CaZKsB9YF">Official IT Discord Server</a></li>
 							<li><a href="https://MTGCaptain.cards/IT-Tasks">IT Dept Tasks - Status Window</a></li>
 							
