@@ -10,6 +10,7 @@
     <link href="css/styles.css" rel="stylesheet">
 </head>
 
+
 <body>
 	<head>  
 		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
@@ -29,17 +30,44 @@ $(function(){
 
     <div class="container-fluid">
         <main class="tm-main">
+            <!-- SEARCH BAR AT THE TOP
+            <div class="row tm-row">
+                <div class="col-12">
+                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
+                        <button class="tm-search-button" type="submit">
+                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
+                        </button>                                
+                    </form>
+                </div>                
+            </div>  
+		-->
     
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+                    <!-- <img src="img/UrzaLordHighArtificer.jpg" alt="Image" class="img-fluid"> -->
+                </div>
+            </div>
+
             <div class="row tm-row tm-mb-40">
                 <div class="col-12">                    
                     <div class="mb-4">
-                        <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Community Proposal Archive</h4>
+                        <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">IT Wall of Contents</h4>
+							<li><a href="https://discord.gg/3CaZKsB9YF">Official IT Discord Server</a></li>
+							<li><a href="https://MTGCaptain.cards/IT-Tasks">IT Dept Tasks - Status Window</a></li>
+							<li><a href="https://MTGCaptain.cards/">TITLE_HERE</a></li>
+							
+							<!--
+							<li><a href="https://MTGCaptain.cards/">TITLE_HERE</a></li>
+							-->
+
                     </div>                    
                 </div>
             </div>
 
-			<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRoE4UFfOWHyPPL9YEMb45mhPo6_kZYCbU-kqhMD_LDNW7cvLLMi6qYMbJFE6Frs9HX5fWzxESeW0ul/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1080" allowfullscreen="true"></iframe>
-			
+				
+
         </main>
     </div>
     <script src="js/jquery.min.js"></script>
