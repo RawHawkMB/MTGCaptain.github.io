@@ -57,7 +57,7 @@ $(function(){
                 <div class="col-12">                    
                     <div class="mb-4">
                         <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">MTG Captain - Facebook</h4>
-							<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fmtgcaptainformat%2F&tabs=discussion&width=0&height=0&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="0" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+							<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fmtgcaptainformat%2F&tabs&width=0&height=0&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="0" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 				
                     </div>                    
                 </div>
