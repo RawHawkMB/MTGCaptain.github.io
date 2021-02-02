@@ -29,18 +29,6 @@ $(function(){
 
     <div class="container-fluid">
         <main class="tm-main">
-            <!-- Search form 
-            <div class="row tm-row">
-                <div class="col-12">
-                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
-                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
-                        <button class="tm-search-button" type="submit">
-                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
-                        </button>                                
-                    </form>
-                </div>                
-            </div>  
-		-->
             <div class="row tm-row tm-mb-45">
                 <div class="col-12">
                     <hr class="tm-hr-primary tm-mb-55">
@@ -53,9 +41,7 @@ $(function(){
 	<div class="col-12">                    
         	<div class="mb-4">
                 	<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Elected Administrators Platforms</h2>
-					<li> EA Discord Owner <BR>
-					SillyHalfOrc#5235 </li> <BR>
-					<li> Elected Administrators Memberlist; <BR>
+					<li> <Strong> ELECTED ADMINISTRATORS; </Strong> <BR>
 					Ammo37#1317 <BR>
 					FurryCombatWombat#4959 <BR>
 					Mekkis#8195 <BR>
@@ -63,15 +49,18 @@ $(function(){
 					Shushir#4597 <BR>
 					SillyHalfOrc#5235 <BR>
 					Xenagos#6969 </li> <BR>
-					<li> Elected Administrator Scribe; <BR>
-					
+					<li> <Strong> ELECTED SCRIBE; </Strong> <BR>
+					 - Seat Is Empty - 
+					</li> <BR>
+					<li> <Strong> EA DISCORD OWNER </Strong> <BR>
+					Under Normal Circumstances, The Elected Scribe <BR>
+					Unofficial Steward, SillyHalfOrc#5235
 					</li> <BR> <BR> 
                      
 		 <div class="col-12">                    
                     <div class="mb-4">
                         <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Social Media Platforms</h2>
 			<p>	<Strong><u> Discord </Strong></u> </p>       
-                            <!-- <ul class="b">  -->
 							<ul>
                                 <li> IT SUPER ADMIN ROLE <BR>
                                 MTGCSuperAdmin1#3043 (Root IT Service Account - 2FA --> Qwertyalex#9823) ~~> Pending Completion <BR>
