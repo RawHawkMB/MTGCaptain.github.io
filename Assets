@@ -40,8 +40,8 @@ $(function(){
 
 	<div class="col-12">                    
         	<div class="mb-4">
-                	<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Elected Administrators Platforms</h2>
-					<li> <Strong> ELECTED ADMINISTRATORS; </Strong> <BR>
+                	<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Elected Administrators Platform</h2>
+					<li> <Strong> <a href="https://discord.gg/9AHMy73g8z"> ELECTED ADMINISTRATORS; </a></Strong> <BR>
 					Ammo37#1317 <BR>
 					FurryCombatWombat#4959 <BR>
 					Mekkis#8195 <BR>
