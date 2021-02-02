@@ -52,10 +52,11 @@ $(function(){
 					<li> <Strong> ELECTED SCRIBE; </Strong> <BR>
 					 - Seat Is Empty - 
 					</li> <BR>
+					<!--
 					<li> <Strong> EA DISCORD OWNER </Strong> <BR>
 					Under Normal Circumstances, The Elected Scribe <BR>
 					Unofficial Steward, SillyHalfOrc#5235
-					</li> <BR> <BR> 
+					</li> <BR> --> <BR> 
                      
 		 <div class="col-12">                    
                     <div class="mb-4">
