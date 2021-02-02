@@ -54,7 +54,7 @@ $(function(){
         	<div class="mb-4">
                 	<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Elected Administrators Platforms</h2>
 					<li> EA Discord Owner <BR>
-					HobbitWhoCould#4068 </li> <BR>
+					SillyHalfOrc#5235 </li> <BR>
 					<li> Elected Administrators Memberlist; <BR>
 					Ammo37#1317 <BR>
 					FurryCombatWombat#4959 <BR>
@@ -63,6 +63,9 @@ $(function(){
 					Shushir#4597 <BR>
 					SillyHalfOrc#5235 <BR>
 					Xenagos#6969 </li> <BR>
+					<li> Elected Administrator Scribe; <BR>
+					
+					</li>
                      
 		 <div class="col-12">                    
                     <div class="mb-4">
@@ -71,29 +74,40 @@ $(function(){
                             <!-- <ul class="b">  -->
 							<ul>
                                 <li> IT SUPER ADMINS ROLE <BR>
-                                MTGCSuperAdmin1#3043 (Root IT Service Account - 2FA -> Qwertyalex#9823) - Pending Completion <BR>
-                                MTGCSuperAdmin2# (IT Service Account - 2FA -> BrightestHammer#3494) <BR>
-                                MTGCSuperAdmin3# (IT Service Account - 2FA -> Mahijok#1966) <BR>
+                                MTGCSuperAdmin1#3043 (Root IT Service Account - 2FA --> Qwertyalex#9823) <<Pending Completion>> <BR>
+                                MTGCSuperAdmin2# (IT Service Account - 2FA --> BrightestHammer#3494) <BR>
+                                MTGCSuperAdmin3# (IT Service Account - 2FA --> Mahijok#1966) <BR>
                                 </li> <BR>
 
-                                <li> LEAD MODERATORS ROLE <BR>
+                                <!--  
+								Moderators all quit, leaving 'lead' mods as only moderators. You cannot lead an empty army, thereofre; 
+								Re-labeling to make all mod titles equal as they actually are in practice and purpose.
+								-->
+								
+								<!--
+								<li> LEAD MODERATORS ROLE <BR>
                                 Qwertyalex#9823 <BR>
                                 BrightestHammer#3494 <BR>
                                 Mahijok#1966 </li> <BR>
-                                
+                                -->								
+								
                                 <li> MODERATORS ROLE <BR>
-                                Brannmuffyn#6969 </li> <BR>                               
+                                Qwertyalex#9823 <BR>
+                                BrightestHammer#3494 <BR>
+                                Mahijok#1966
+								</li> <BR>                               
                             	
                             
    		  	                            
       <p>			<Strong><u><li><a href="https://www.facebook.com/groups/mtgcaptainformat/?__cft__[0]=AZU5Ys2HFH2eDWnc-9KuZIyFTXdAIXWPFpIsgS6vUrrCnTWuGJ-gSvWkljs6FO6IfJxEjCBDsfzDGMXhakFQEVurWqZPL30hbSzAUmou_KieNO-bAnoF0TPVR6n3hfI0L24Mf6H-9lrlRZnoWgRo727O3lX1DLOa9LWFZAqGehy7iuZXcIw3_vApE_eQDugnUOA&__tn__=-UC%2CP-R">Facebook </a></Strong></u> </p>        
-                                <li> ADMIN ROLE <BR>
-                                Matthew Madden (Owns Facebook Group) <BR>
+                                
+								<li> ADMINS ROLE <BR>
+                                Matthew Madden <BR>
                                 Matthew Cichy <BR>
                                 Magicthegathering Captainit (IT Service Account) <BR>
                                 </li> <BR>
                                 
-                                <li> MODERATOR ROLE <BR>
+                                <li> MODERATORS ROLE <BR>
                                 Ethan Morris </li> <BR>
  
 
@@ -103,46 +117,49 @@ $(function(){
   <BR>  -->
 			<p>	<Strong><u><li><a href="https://www.instagram.com/mtgcaptain/"> Instagram </a></Strong></u> 			</p>
 
-                            
-                                <li> Mad Matt </li>
-                                <li> MTGCaptainIT (IT Service Account) </li> <BR>
+								<li> MODERATORS ROLE <BR>
+									 Mad Matt <BR>
+									 MTGCaptainIT (IT Service Account) </li> <BR>
 			     
 
 
 			<p>	<Strong><u> Google Mail - Social Media Accounts	</Strong></u> <BR>
 							(   MTGCaptainMedia@gmail.com   )</p> 
-                            <!--    <li> YinsoTheAkuma#9229 </li>
-								<li> footnmouth#0607 </li> <BR>  -->
-								<li> MadMatt#0774	</li>
-								<li> MTGCaptainIT (IT Service Account) </li> <BR>
+								
+								<li> MODERATORS ROLE <BR>
+									 MadMatt#0774	<BR>
+									 MTGCaptainIT (IT Service Account) </li> <BR>
 								
                             
       <p>			<Strong><u><li><a href="https://www.youtube.com/channel/UCq8yJL1Txx5-oldIIChBEmA"> YouTube Channel </a></Strong></u> 			</p>
-                            <!--    <li> YinsoTheAkuma#9229 </li>
-								<li> footnmouth#0607 </li> <BR>  -->
-								<li> MadMatt#0774	</li>
-								<li> MTGCaptainIT (IT Service Account) </li> <BR>
+                            
+								<li> MODERATORS ROLE <BR>
+									 MadMatt#0774	<BR>
+									 MTGCaptainIT (IT Service Account) </li> <BR>
 
 
 			<p>	<Strong><u><li><a href="https://old.reddit.com/r/MTGCaptain/"> Reddit </a>- /r/MTGCaptain </Strong></u> 		</p>    
-                                <li> MODERATORS ROLE <BR>
-                            <!--    Raw_Hawk (Owns Subreddit) <BR> -->
-                                MadMatt13579 <BR>
-                            <!--    FootnMouth5 <BR> -->
-                                MTGCaptain_Admin (IT Service Account) </li> <BR>
+                                
+								<li> MODERATORS ROLE <BR>
+									 MadMatt13579 <BR>
+									 FootnMouth5 <BR>
+									 MTGCaptain_Admin (IT Service Account) </li> <BR>
                             
                   
                   
       <p>			<Strong><u><li><a href="https://www.twitch.tv/mtgcaptain"> Twitch </a>Channel </Strong></u> 			</p>  
-                                <li> FootnMouth#0607 </li>
-								<li> MTGCaptainIT (IT Service Account) </li>
-                                <BR>                     
+                                
+								<li> MODERATORS ROLE <BR>
+									 MadMatt#0774	<BR>
+									 MTGCaptainIT (IT Service Account) </li> <BR>                 
   
   
       <p>			<Strong><u><li><a href="https://twitter.com/PlayCaptainMTG"> Twitter </a>Channel </u></Strong>			</p>                    
-                                <li> MadMatt#0774 </li> 
-								<li> FootnMouth#0607 </li>
-								<li> MTGCaptainIT (IT Service Account) </li>
+                                
+								<li> MODERATORS ROLE <BR>
+									 MadMatt#0774  <BR>
+									 FootnMouth#0607  <BR>
+									 MTGCaptainIT (IT Service Account) </li>
     
     			</ul>
                     </div>                    
