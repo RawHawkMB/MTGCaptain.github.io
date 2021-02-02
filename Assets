@@ -65,7 +65,7 @@ $(function(){
 					Xenagos#6969 </li> <BR>
 					<li> Elected Administrator Scribe; <BR>
 					
-					</li>
+					</li> <BR> <BR> 
                      
 		 <div class="col-12">                    
                     <div class="mb-4">
@@ -73,23 +73,12 @@ $(function(){
 			<p>	<Strong><u> Discord </Strong></u> </p>       
                             <!-- <ul class="b">  -->
 							<ul>
-                                <li> IT SUPER ADMINS ROLE <BR>
-                                MTGCSuperAdmin1#3043 (Root IT Service Account - 2FA --> Qwertyalex#9823) <<Pending Completion>> <BR>
+                                <li> IT SUPER ADMIN ROLE <BR>
+                                MTGCSuperAdmin1#3043 (Root IT Service Account - 2FA --> Qwertyalex#9823) ~~> Pending Completion <BR>
                                 MTGCSuperAdmin2# (IT Service Account - 2FA --> BrightestHammer#3494) <BR>
                                 MTGCSuperAdmin3# (IT Service Account - 2FA --> Mahijok#1966) <BR>
                                 </li> <BR>
-
-                                <!--  
-								Moderators all quit, leaving 'lead' mods as only moderators. You cannot lead an empty army, thereofre; 
-								Re-labeling to make all mod titles equal as they actually are in practice and purpose.
-								-->
-								
-								<!--
-								<li> LEAD MODERATORS ROLE <BR>
-                                Qwertyalex#9823 <BR>
-                                BrightestHammer#3494 <BR>
-                                Mahijok#1966 </li> <BR>
-                                -->								
+				
 								
                                 <li> MODERATORS ROLE <BR>
                                 Qwertyalex#9823 <BR>
