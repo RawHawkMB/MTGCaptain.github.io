@@ -202,8 +202,24 @@ $(function(){
    
                     </div>                    
                 </div>
+				
+				
+				
+				<div class="col-12">                    
+					<div class="mb-4">
+						<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Community Member FAQ</h2>
+						 
+						 <Strong>Q.</Strong> I am a magic player who wants to join Captain. <BR>
+						 What are is the cost to join? <BR>
+						 
+						 <Strong>A.</Strong> Free to join. All we ask is you follow the rules.
+						 
+						 
+						 
+						 
+					</div>             
+                </div>
             </div>
-	    
         </main>
     </div>
     <script src="js/jquery.min.js"></script>
