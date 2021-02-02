@@ -221,9 +221,9 @@ $(function(){
 						 <Strong>Q.</Strong> Cool, so where do I find these rules?
 						 <BR>
 						 
-						 <Strong>A.</Strong> Great question! You can find the Community Constitution <Strong><u><li><a href="https://mtgcaptain.cards/Constitution.html">HERE</a></Strong></u><BR>
-						 The End User License Agreement (EULA) <Strong><u><li><a href="https://mtgcaptain.cards/EULA.html">HERE</a></Strong></u><BR>
-						 The Privacy Policy <Strong><u><li><a href="https://mtgcaptain.cards/PrivacyPolicy">HERE</a></Strong></u>
+						 <Strong>A.</Strong> Great question! You can find the Community Constitution <Strong><u><a href="https://mtgcaptain.cards/Constitution.html">HERE</a></Strong></u><BR>
+						 The End User License Agreement (EULA) <Strong><u><a href="https://mtgcaptain.cards/EULA.html">HERE</a></Strong></u><BR>
+						 The Privacy Policy <Strong><u><a href="https://mtgcaptain.cards/PrivacyPolicy">HERE</a></Strong></u>
 						 <BR> <BR>
 						 
 						 
@@ -232,7 +232,7 @@ $(function(){
 						 Is there a more condensed version I could read?
 						 <BR>
 						 
-						 <Strong>A.</Strong> Yeah that is a lot of text. Check out Captain TLDR <Strong><u><li><a href="https://mtgcaptain.cards/Captain-TLDR">HERE</a></Strong></u><BR>
+						 <Strong>A.</Strong> Yeah that is a lot of text. Check out Captain TLDR <Strong><u><a href="https://mtgcaptain.cards/Captain-TLDR">HERE</a></Strong></u><BR>
 						 <BR> <BR>
 						 
 						 
