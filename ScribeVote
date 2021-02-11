@@ -43,6 +43,9 @@ $(function(){
                     <div class="mb-4">
                         <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Scribe Vote - 2021</h4>
 			    		<p>
+						
+						<!-- Comment below up to line 70 when voting Begins -->
+						
 						Starting immediately we will be having a snap election for the MTG Captain Scribe position. <BR>  <BR>
 						
 						Our prior Scribe for 2020, HobbitWhoCould#4068, had to step down for personal reasons and can no longer maintain the Scribe position. <BR>   <BR>
@@ -63,7 +66,9 @@ $(function(){
 						Please consider volunteering for this position. You will be able to contribute to the community and be at the forefront of the MTG Captain changes. <BR>  <BR>
 						
 						<em> Please review the <a href="http://mtgcaptain.cards/Constitution.html">Community Constitution</a> prior to volunteering & the vote. </em> <BR>  <BR>
-		
+						
+						<!-- Comment above when voting Begins -->
+						
 						See below for the sign up form and current volunteers;
 						</p>
 						
@@ -76,10 +81,13 @@ $(function(){
 						<BR>  <BR>
 						
 						
+						<!-- Comment below up to line 90 when voting begins -->
 						<p>
 						Thank you very much for signing up if you have, and please check back soon to get regular updates.
 						<BR>
 						- MTG Captain Elected Administrators <BR> <BR>
+						</p>
+						<!-- Comment the above when voting Begins -->
 		
 		
 		<!--   !!! REMOVE COMMENT WHEN VOTING BEGINS AND THEN COMMENT BACK WHEN VOTING ENDS !!! -->
