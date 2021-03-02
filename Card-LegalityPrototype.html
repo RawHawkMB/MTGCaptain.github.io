@@ -14,6 +14,31 @@
 	<head>  
 		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
 		<script src="http://tappedout.net/tappedout.js"></script>
+		
+		
+		<style>
+			.accordion{
+				background-color: dodgerblue;
+				color: #fff;
+				cursor: pointer;
+				padding: 16px;
+				width: 100%;
+				border: none;
+				text-align: left;
+				outline: none;
+				font-size: 18px;
+				transition: 0.4s;
+				font-weight: bold;
+			}
+			
+			.panel{
+			padding: 0 16px;
+			display: none;
+			background-color: palegreen
+			overflow: hidden;
+			
+			}
+		
 	</head>
 	
 	<!--Navigation bar-->
@@ -156,13 +181,10 @@ $(function(){
 			All Wizards of the Coast Predatory Market cards;
 			</p>
 			
-					<div>
-					<input type="checkbox" id="SL" />
-						<label for="SL">1) 'Secret Lair' Exclusives</label>
-
-						<div class="content">
-						<p>
-				<ul class="b"> 
+			<button class="accordion">1) 'Secret Lair' Exclusives</button>
+				<div class="panel">
+					<p>
+					<ul class="b"> 
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497506">Daryl, Hunter of Walkers</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497507">Glenn, the Voice of Calm</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497516">Lucille</a></li>
@@ -170,19 +192,16 @@ $(function(){
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497509">Negan, the Cold-Blooded</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497505">Rick, Steadfast Leader</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497510">Walker (Token)</a></li>	
-				</ul>
+					</ul>
 					</p>
-						</div>
+				</div>
+				<hr>
+						
 
-			
-					<input type="checkbox" id="BAB" />
-						<label for="BAB">2) 'Buy-A-Box' Exclusives</label>
-
-						<div class="content">
+			<button class="accordion">2) 'Buy-A-Box' Exclusives</button>
+				<div class="panel">
 						<p>
-
-			
-                <ul class="b">  
+					<ul class="b">  
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=445958">Firesong and Sunspeaker</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450253">Nexus of Fate</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455613">Impervious Greatwurm</a></li>
@@ -193,19 +212,28 @@ $(function(){
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479156">Athreos, Shroud-Veiled</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=482524">Zilortha, Strength Incarnate</a></li>
                     <li><a href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489663">Rin and Seri, Inseparable</a></li>
-                </ul>
+					</ul>
 					</p>
-						</div>
-					</div>
-					
+				<div>
+				
+				
+				<script>
+					var acc = document.getElementsByClassName("accordion");
+						var i;
 						
-input + label + .content {
-    display: none;
-}
+						for (i=0; i<acc.length; i++){
+							acc[i].addEventListener("click", function()[
+								this.classList.toggle("active");
+								var panel = this.nextElementSibling;
+								if (panel.style.display === "block"){
+									panel.style.display = "none";
+								}else{
+									[panel.style.display = "block";
+								]
+							}]
+						}
+					
 
-input:checked + label + .content {
-    display: block;
-}
 				
 			<p>
 			Predatory Marketing: The physical printing and selling of mechanically unique cards by Wizards of the Coast without distribution through brick & mortar retailers and/or third party wholesalers that have limited availability based on region, and/or time-gate on availability that goes above that of a print run (IE; available to order only for X days). Furthermore, the digital distribution of online only cards which have limited time availability to acquire said online-only product, are also included. 
