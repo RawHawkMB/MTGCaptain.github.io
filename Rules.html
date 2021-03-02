@@ -84,8 +84,8 @@ $(function(){
                             </ol>
 							</p>
 						</div>
-							<HR>
-							<HR>
+							<hr>
+							<hr>
                      </div>                    
                 </div>
 			</div>			
@@ -117,8 +117,8 @@ $(function(){
 								</ol>
 							</p>
 						</div>
-							<HR>
-							<HR>
+							<hr>
+							<hr>
                      </div>                    
                 </div>
 			</div>				   
@@ -303,8 +303,8 @@ $(function(){
 							</table>
 							
 						</div>
-							<HR>
-							<HR>
+							<hr>
+							<hr>
                      </div>                    
                 </div>
 			</div>	
@@ -326,7 +326,7 @@ $(function(){
 							</p>
 						</div>
 						
-							<HR>	
+							<hr>	
 							
 							<button class="accordion">Captain Community Constitution Policies</button>
 						<div class="panel">
@@ -338,8 +338,8 @@ $(function(){
 							
 							</p>
 						</div>
-							<HR>
-							<HR>
+							<hr>
+							<hr>
                      </div>                    
                 </div>
 			</div>
@@ -357,25 +357,23 @@ $(function(){
      
         </main>
     </div>
-	
-	<script>
-		var acc = document.getElementsByClassName("accordion");
-			var i;
-						
-			for (i=0; i<acc.length; i++){
-				acc[i].addEventListener("click", function()[
-					this.classList.toggle("active");
-					var panel = this.nextElementSibling;
-					if (panel.style.display === "block"){
-						panel.style.display = "none";
-					}else{
-						[panel.style.display = "block";
-					]
-				}]
-			}
-	</script>
-	
-    <script src="js/jquery.min.js"></script>
+	<script src="js/jquery.min.js"></script>
     <script src="js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
 </body>
 </html>
