@@ -13,6 +13,31 @@
 <body>
 	<head>  
 		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+		
+		<style>
+			.accordion{
+				background-color: #6BA5C8;
+				color: #fff;
+				cursor: pointer;
+				padding: 16px;
+				width: 100%;
+				border: none;
+				text-align: left;
+				outline: none;
+				font-size: 18px;
+				transition: 0.4s;
+				font-weight: bold;
+			}
+			
+			.panel{
+			padding: 0 16px;
+			display: none;
+			background-color: palegreen
+			overflow: hidden;
+			
+			}
+		</style>
+		
 	</head>
 	
 	<!--Navigation bar-->
@@ -29,18 +54,8 @@ $(function(){
 
     <div class="container-fluid">
         <main class="tm-main">
-<!-- Search form 
-            <div class="row tm-row">
-                <div class="col-12">
-                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
-                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
-                        <button class="tm-search-button" type="submit">
-                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
-                        </button>                                
-                    </form>
-                </div>                
-            </div>    
--->
+
+
             <div class="row tm-row tm-mb-45">
                 <div class="col-12">
                     <hr class="tm-hr-primary tm-mb-55">
