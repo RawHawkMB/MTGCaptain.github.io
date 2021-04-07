@@ -1,0 +1,14 @@
+Type: A
+Host: @
+Value: 138.197.165.45
+TTL: Automatic
+
+Type: AAAA
+Host: @
+Value: 2604:a880:cad:d0::d5d:5001
+TTL: Automatic
+
+Type: CNAME
+Host: www
+Value: mtgcaptain.cards.
+TTL: 30 min
