@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>VOTE - 100 Card Minimum Rule Change</title>
+	<link rel="stylesheet" href="/fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/styles.css" rel="stylesheet">
+</head>
+<link rel="icon" href="/img/favicon.ico"/>
+
+<body>
+
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("/Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+		<style>
+			.accordion{
+				background-color: #6BA5C8;
+				color: #fff;
+				cursor: pointer;
+				padding: 16px;
+				width: 100%;
+				border: none;
+				text-align: left;
+				outline: none;
+				font-size: 18px;
+				transition: 0.4s;
+				font-weight: bold;
+			}
+			
+			.panel{
+			padding: 0 16px;
+			display: none;
+			background-color: palegreen
+			overflow: hidden;
+			
+			}
+		</style>
+
+    <div class="container-fluid">
+        <main class="tm-main">
+            <div class="row tm-row tm-mb-40">
+                <div class="col-12">                    
+                    <div class="mb-4">
+						<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Community Vote - 100 Card Minimum Rule Change</h2>
+						<p>
+						This vote is to ammend the current rule in the MTG Captain format about deck size limits. <BR> <BR>
+						Current Rule: 100 Cards <Strong>Exactly</Strong> must be in a library at the start of a game. <BR>
+						Proposed Rule Change: 100 Cards <Strong>Minimum</Strong> must be in a library at the start of a game.
+						</p>
+						<HR>
+						<p>
+						A more technical level would be to modify rule 908.5a<BR>
+						<BR>
+						The current rule states the following;<BR>
+							<tr>
+								<th> Rule # </th>
+								<th> Comprehensive Rule Text </th>
+							</tr>
+							
+							<tr>
+								<td> 908.5a   </td>
+								<td>  <BR> Each deck must contain exactly 100 cards, including its Captain. In other words, the minimum deck size and the maximum deck size are both 100. <BR> </td>
+							</tr>
+						A suggested change to the text would contain something like;<BR>
+							<tr>
+								<td> 908.5a   </td>
+								<td>  <BR> Each deck must contain a minimum of 100 cards, including its Captain. In other words, the deck size is 100 cards including Captain <Strong>or more</Strong>. <BR> </td>
+							</tr>
+							
+						<p>
+						Knowing this suggested change please use this knowledge to make your vote count. <BR>
+						Use your best judgement to determine if this change should be made or if the current rules should remain.
+						</p>
+						
+						<button class="accordion">VOTE HERE</button>
+							<div class="panel">
+						<!--
+						<iframe src="INPUT_VOTING_URL_HERE" width="960" height="900" allowfullscreen="true"></iframe>
+						-->
+							</div>
+						<HR>		
+						
+						<!--
+						<button class="accordion">VOTE RESULTS</button>
+							<div class="panel">
+						<iframe src="INPUT_RESULTS_URL_HERE" width="960" height="900" allowfullscreen="true"></iframe>					
+							</div>
+						<HR> <HR>
+						-->
+						
+                    </div>                    
+                </div>
+            </div>
+	    
+        </main>
+    </div>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
+</body>
+</html>
