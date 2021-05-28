@@ -1,14 +1,41 @@
 <div>
     <header class="tm-header" id="tm-header">
 		
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NL3PTTJ');</script>
-<!-- End Google Tag Manager -->
-	
+		<!-- Google Tag Manager -->
+		<script>
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-NL3PTTJ');
+		</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Accordian -->
+		<style>
+			.accordion{
+				background-color: #6BA5C8;
+				color: #fff;
+				cursor: pointer;
+				padding: 16px;
+				width: 100%;
+				border: none;
+				text-align: left;
+				outline: none;
+				font-size: 18px;
+				transition: 0.4s;
+				font-weight: bold;
+			}
+			
+			.panel{
+			padding: 0 16px;
+			display: none;
+			background-color: palegreen
+			overflow: hidden;
+			
+			}
+		</style>
+		<!-- End Accordion -->
 	
 	<link rel="icon" href="/img/favicon.ico"/>
         <div class="tm-header-wrapper">
@@ -116,6 +143,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				
             </div>
 			
+			<button class="accordion">RIGHTS</button>
+				<div class="panel">
             <p class="tm-mb-50 pr-5 text-white">
                 <b>RIGHTS</b>
             </p>
@@ -123,6 +152,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 The Captain Website is Fan Content permitted under the Fan Content Policy.  <BR>
                 Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast and ©Wizards of the Coast LLC;
 			</p>
+				</div>
+			
+			<button class="accordion">IT</button>
+				<div class="panel">
 			 <p class="tm-mb-50 pr-5 text-white">
 				<b>IT</b>
 			</p>
@@ -134,7 +167,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				or Contact IT at MTGCaptainIT@gmail.com <BR>
 				- Thank you
             </p>
-
+				</div>
+			
+			
+				<script>
+					var acc = document.getElementsByClassName("accordion");
+						var i;
+						
+						for (i=0; i<acc.length; i++){
+							acc[i].addEventListener("click", function()[
+								this.classList.toggle("active");
+								var panel = this.nextElementSibling;
+								if (panel.style.display === "block"){
+									panel.style.display = "none";
+								}else{
+									[panel.style.display = "block";
+								]
+							}]
+						}
+				</script>
+				
         </div>
     </header>
 
